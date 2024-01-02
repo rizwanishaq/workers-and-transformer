@@ -5,8 +5,8 @@ import Header from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "web-ml",
-  description: "Web ML",
+  title: "riisbitech-ml",
+  description: "riisbitech-ml",
 };
 
 export default function RootLayout({ children }) {
